@@ -62,9 +62,3 @@ TRACE | Designates finer-grained informational events than the DEBUG.
 | 0   | F15 | Introduce card deck (only "sea battle" card and functionality) and apply effect to turn | D | 2023-01-23 | 2023-01-23 |
 | 0   | F16 | Card based strategy | D | 2023-01-24 | 2023-01-24 |
 | 0   | F17 | "Monkey-business" card and functionality | D | 2023-01-24 | 2023-01-25 |
-
-
-
-
-| ... | ... | ... |
-
